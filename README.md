@@ -44,7 +44,11 @@ follow a moment after the game's reply. Each time you start, the models take a m
 so the first few moves may come without a picture or a line.
 
 **Keep the small window open while you play.** Closing it (or clicking **Quit**) stops the game and frees
-your graphics card. Each time you start it, a new game begins.
+your graphics card. Your game is saved after every move, so next time you start, it carries on where you
+left off; **New game** starts over.
+
+The map beside the picture shows every room you've been through, with north up. It stays at the same
+size and follows you as you move; scroll it, or drag it with the mouse, to look around.
 
 ## Uninstall
 
