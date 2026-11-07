@@ -38,14 +38,18 @@ Nothing needs administrator rights; it all goes in your user folder
 
 ## Play
 
-Open **Play Xork I** from the Start menu. A small window appears and the game opens in your browser.
+Open **Play Xork I** from the Start menu. The game opens in your browser, and its icon appears by the clock.
 Type commands like `open mailbox`, `go north` or `take lamp`. Sybylla's line and the room's picture
 follow a moment after the game's reply. Each time you start, the models take a minute or two to load,
 so the first few moves may come without a picture or a line.
 
-**Keep the small window open while you play.** Closing it (or clicking **Quit**) stops the game and frees
-your graphics card. Your game is saved after every move, so next time you start, it carries on where you
-left off; **New game** starts over.
+**While the game runs, Xork I puts an icon by the clock.** Click it to open the game; right-click it
+for more, including **Quit Xork I**. Quit when you've finished: closing the browser leaves the game
+running, holding your graphics card's memory. If you can't see the icon, it may be under the **^** arrow
+beside the clock.
+
+Your game is saved after every move, so next time you start, it carries on where you left off;
+**New game** starts over.
 
 The map beside the picture shows every room you've been through, with north up. It stays at the same
 size and follows you as you move; scroll it, or drag it with the mouse, to look around, and click
