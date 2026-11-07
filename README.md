@@ -48,7 +48,9 @@ your graphics card. Your game is saved after every move, so next time you start,
 left off; **New game** starts over.
 
 The map beside the picture shows every room you've been through, with north up. It stays at the same
-size and follows you as you move; scroll it, or drag it with the mouse, to look around.
+size and follows you as you move; scroll it, or drag it with the mouse, to look around, and click
+**Recenter** to come back to where you are. If you installed with no pictures, the opening scene stays in
+the picture's place.
 
 ## Uninstall
 
