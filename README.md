@@ -29,8 +29,8 @@ Your companion is **Sybylla**, in the voice of Sybylla Melvyn, the narrator of M
 1. Download **Play-Xork-I-Setup.exe** from the [latest release](https://github.com/wgruner/xork-i/releases/latest).
 2. Run it. The installer isn't signed, so Windows may say **"Windows protected your PC"**: click
    **More info**, then **Run anyway**.
-3. Choose your room pictures and confirm the download size. The installer then downloads
-   Python, Sybylla's model and the picture model, showing how far it has got. This can take an hour or more on a slow connection.
+3. Choose your room pictures and confirm the download size. A window then shows the downloads
+   (Python, Sybylla's model and the picture model). This can take an hour or more on a slow connection.
    If it's interrupted, run the installer again and it carries on where it stopped.
 
 Nothing needs administrator rights; it all goes in your user folder
